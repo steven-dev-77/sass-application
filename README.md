@@ -1,6 +1,4 @@
-# Better SaaS
-
-[中文版 README](README_zh.md) | English
+# Next.js Sass app
 
 A modern, full-stack SaaS application built with Next.js 15, featuring authentication, payments, file management, and internationalization with comprehensive testing suite.
 
